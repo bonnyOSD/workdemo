@@ -7,7 +7,7 @@ public class RadiobuttonDemo extends JFrame {
     RadiobuttonDemo(){
         c=this.getContentPane();
         c.setLayout(null);
-        c.setBackground(Color.PINK);
+        c.setBackground(Color.BLUE);
 
         m=new JRadioButton("Male");
         m.setBounds(20,50,100,50);
